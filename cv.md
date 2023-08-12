@@ -1,3 +1,4 @@
 # Daniel Kuznetsov
 
-# FrontEnd Developer
+## Contacts
+danilkuz2211@gmain.com
