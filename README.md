@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://danielsoftwareengineer.github.io/rsschool-cv/cv
+# https://danielsoftwareengineer.github.io/rsschool-cv/cv
